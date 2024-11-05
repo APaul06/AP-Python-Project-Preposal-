@@ -13,4 +13,4 @@ I wish to do it alone as I feel like I learn best when I can struggle with probl
 
 ## Do you have any questions of your own?
 
-Let's say I need to use online information for 
+If I need to use information from online like example DNA/RNA/Protein sequences. Would I need to cite where I got the information/data from and if so how?
