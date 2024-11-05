@@ -5,10 +5,7 @@ So I would like to do something bio or chem-related
 
 ## What idea(s) do you have for your final project?
 
-Protein Weight Calculator
-Nucleotide Pair Counter
-Random DNA Sequence Generator
-
+Protein Weight Calculator, Nucleotide Pair Counter, Random DNA Sequence Generator
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
