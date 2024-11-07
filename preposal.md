@@ -5,7 +5,7 @@ So I would like to do something bio or chem-related
 
 ## What idea(s) do you have for your final project?
 
-Protein Weight Calculator
+Protein Weight Calculator add visuals
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
