@@ -2,11 +2,11 @@
 
 #### Your name
 
-TODO
+Alan Paul
 
 #### Your section leader's name
 
-TODO
+Alan Paul
 
 #### Project title
 
