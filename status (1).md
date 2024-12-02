@@ -10,7 +10,7 @@ Alan Paul
 
 #### Project title
 
-TODO
+Protein Molecular Weight Calculator
 
 ***
 
@@ -18,12 +18,16 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Set up the dictionaries for 20 amino acids
+Set up user inputs
+set up some of the loops 
+set up some functions
+watched some YouTube videos on how to use Ren'Py to make a user interface for the project and shed a single tear of sorrow 
 
 #### What have you not done for your project yet?
 
-TODO
+I have not even started working on the user interface
 
 #### What problems, if any, have you encountered?
 
-TODO
+Work progressing a lot slower than I expected cuz of other classes jacking up the work load but other than that the project has been coming along.
