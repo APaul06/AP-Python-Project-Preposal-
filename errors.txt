@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 36: expected an indented block
+            molecular_weight += weights[_]
+             ^
+    
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sat Dec  7 16:36:05 2024

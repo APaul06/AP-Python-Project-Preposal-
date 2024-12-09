@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 55, in script
+    $ molecular_weight = calculate_molecular_weight(protein_sequence)
+  File "game/script.rpy", line 55, in <module>
+    $ molecular_weight = calculate_molecular_weight(protein_sequence)
+  File "game/script.rpy", line 36, in calculate_molecular_weight
+    return molecular_weight
+UnboundLocalError: local variable 'molecular_weight' referenced before assignment
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 55, in script
+    $ molecular_weight = calculate_molecular_weight(protein_sequence)
+  File "C:\Users\alanp\Downloads\renpy-8.0.3-sdk\renpy\ast.py", line 1131, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\alanp\Downloads\renpy-8.0.3-sdk\renpy\python.py", line 1061, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 55, in <module>
+    $ molecular_weight = calculate_molecular_weight(protein_sequence)
+  File "game/script.rpy", line 36, in calculate_molecular_weight
+    return molecular_weight
+UnboundLocalError: local variable 'molecular_weight' referenced before assignment
+
+Windows-10-10.0.26100 AMD64
+Ren'Py 8.0.3.22090809
+Protein Weight Calculator 1.0
+Sat Dec  7 16:13:52 2024
