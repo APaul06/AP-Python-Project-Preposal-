@@ -1,4 +1,5 @@
 Protein Weight Calculator with an interface made in Renpy
+https://www.youtube.com/watch?v=ij0FKoI6MUw&feature=youtu.be
 
 Main Struggles:
 I had to learn Renpy which embarrassingly enough took me multiple days to get the hang of
